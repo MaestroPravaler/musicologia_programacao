@@ -1,0 +1,17 @@
+git init (inicialização do projeto)
+
+git status (verificar o status do projeto)
+
+git add (adicionar os arquivos para serem verificados pelo git - stanging area)
+
+git commit (Gravar as alterações)
+
+====================
+
+git diff (visualizar as alterações no worspace)
+git diff --staged (visualizar as alterações no Stanging area)
+git log (visualizar as alterações gerais)
+
+gitk (Visualizador gráfico do git)
+
+====================
