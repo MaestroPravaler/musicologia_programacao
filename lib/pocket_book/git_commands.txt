@@ -1,0 +1,54 @@
+======================================================
+Sugestões de Extensões para o VSCODE
+======================================================
+
+Git Lens
+Git Graph
+Git File History
+
+Git flow
+
+=====================================================================
+COMANDOS INICIAIS
+======================================================================
+
+git init (inicialização do projeto)
+git status (verificar o status do projeto)
+git add (adicionar os arquivos para serem verificados pelo git - stanging area)
+git commit (Gravar as alterações)
+
+=======================================================================
+COMANDOS DE VISUALIZAÇÃO DAS ALTERAÇÕES
+=======================================================================
+
+git diff (visualizar as alterações no worspace)
+git diff --staged (visualizar as alterações no Stanging area)
+git log (visualizar as alterações gerais)
+
+gitk (Visualizador gráfico do git)
+
+========================================================================
+COMANDOS DE ETIQUETAS
+========================================================================
+
+    git tag (Ponteiro para um local específico da sua aplicação)
+    git tag -a nometag -m "Topico 03" (Momento atual)
+    git tag -a nometag (chave) -m "Topico 01" (Qualquer Momento)
+    git tag -d "nomedatag" (Deleta a TAG)
+
+    git branch "nome da branch" (Criar uma nova branch)
+    git chekout "nome da branch" (Branch ativa)
+
+    SELECIONAR A BRANCH MASTER
+    git merge "nomedabranch" (Copiar as alterações para a Master)
+
+========================================================================
+ADICIONAR PROJETO NO GITHUB
+========================================================================
+
+01 - Criar uma conta no Github
+02 - Criar chave SSH (digite no terminal ssh-keygen)
+03 - No Github Criar um "New Repository"
+04 - Clonar este repositório para sua máquina (git clone "seu endereço")
+
+git push origin master (Enviar a Master para o Github)
