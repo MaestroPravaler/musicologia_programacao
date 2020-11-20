@@ -52,3 +52,20 @@ ADICIONAR PROJETO NO GITHUB
 04 - Clonar este repositório para sua máquina (git clone "seu endereço")
 
 git push origin master (Enviar a Master para o Github)
+
+==================================================
+CONTRIBUIR COM PROJETOS DE TERCEIROS - GITHUB
+==================================================
+
+01 - Acessar sua conta no GitHub
+02 - Abrir em uma nova aba o projeto que deseja contribuir
+03 - Copia do nome de usuário e nome do projeto
+04 - Cola na barra do browser.
+05 - Clicar em Fork (Copia o projeto para sua conta)
+06 - Clone do projeto para sua máquina
+07 - Fazer as modificações (add; commit)
+08 - Enviar para o seu Github
+     (git push origin master)
+09 - Fazer um Pull Request (enviar as alterações para o projeto original)
+
+=====================================================

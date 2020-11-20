@@ -1,5 +1,5 @@
-import 'package:topico01/topico01.dart' as topico01;
+import 'package:topico01/topico05_const_varnum.dart';
 
-void main(List<String> arguments) {
-  print('Hello world: ${topico01.calculate()}!');
+void main() {
+  Topico05();
 }
