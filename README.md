@@ -1,5 +1,4 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Dart e Algumas Possibilidades
+Este tópico está diretamente relacionado a playlist que criei em meu canal no youtube onde abordo algumas possibilidades da linguagem com exemplos práticos de códigos voltados a musicologia.
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+![](assets/images/capa_abertura.png)
